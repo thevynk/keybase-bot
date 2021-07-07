@@ -1,14 +1,9 @@
 # How to run this bot?
 
-### First, make sure you have `keybase-bot` npm package.
-
-or install it by 
+### First install the dependencies
+ 
 ```
-npm install keybase-bot
-```
-or 
-```
-yarn add keybase-bot
+npm install
 ```
 
 ### Copy the ENV
