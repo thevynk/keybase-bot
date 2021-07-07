@@ -7,7 +7,8 @@
     "keybase-bot": "^1.0.3"
   },
   "scripts": {
-    "test": "node index.js"
+    "start": "node .",
+    "dev": "nodemon ."
   },
   "repository": {
     "type": "git",
