@@ -4,9 +4,8 @@
   "description": "or install it by \r ```\r npm install keybase-bot\r ```\r or \r ```\r yarn add keybase-bot\r ```",
   "main": "index.js",
   "dependencies": {
-    "keybase-bot": "^3.6.1"
+    "keybase-bot": "^1.0.3"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "node index.js"
   },
