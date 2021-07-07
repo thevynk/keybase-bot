@@ -1,0 +1,23 @@
+{
+  "name": "keybase-bot",
+  "version": "1.0.0",
+  "description": "or install it by \r ```\r npm install keybase-bot\r ```\r or \r ```\r yarn add keybase-bot\r ```",
+  "main": "index.js",
+  "dependencies": {
+    "keybase-bot": "^3.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thevynk/keybase-bot.git"
+  },
+  "author": "Vynk Inc.",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/thevynk/keybase-bot/issues"
+  },
+  "homepage": "https://github.com/thevynk/keybase-bot#readme"
+}
