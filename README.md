@@ -25,4 +25,8 @@ USERNAME=insertyourusernamehere
 PAPERKEY=yourpaperkey
 ```
 
-Then run the bot with
+Then run the bot with this command:
+```
+node index.js
+```
+That's it! 😃
