@@ -1,4 +1,5 @@
 const Bot = require("keybase-bot");
+require("dotenv").config();
 
 async function main() {
   const bot = new Bot();
